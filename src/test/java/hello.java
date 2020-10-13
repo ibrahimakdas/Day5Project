@@ -8,6 +8,8 @@ public class hello {
 
         System.out.println("sgfsjfutyıtuıyuhj");
 
-        tyjdsdsjkdskjhdvkjafdhsl
+        //ajhdkjLKJFKKWQŞEOKŞOKEQGKŞ
+                //hdvkjafdhsl
+        //GGHJJ
     }
 }
