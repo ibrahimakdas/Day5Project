@@ -3,8 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9f29c05-216e-4b88-93e9-cb3fb08419ca" name="Default Changelist" comment="" />
+    <list default="true" id="c9f29c05-216e-4b88-93e9-cb3fb08419ca" name="Default Changelist" comment="awesome change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,11 +48,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1ipR1sH0aj9xImC8AKX8Djgn5eJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,12 +65,51 @@
       <option name="presentableId" value="Default" />
       <updated>1602602340334</updated>
     </task>
+    <task id="LOCAL-00001" summary="awesome change">
+      <created>1602602950031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602602950031</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="awesome change" />
+    <option name="LAST_COMMIT_MESSAGE" value="awesome change" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602602746492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602602746492" />
     <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602602568021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602602568021" />
+    <state x="557" y="261" width="456" height="205" key="Github.ShareDialog" timestamp="1602602789319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="557" y="261" width="456" height="205" key="Github.ShareDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602602789319" />
+    <state x="467" y="68" key="Github.UntrackedFilesDialog" timestamp="1602602804547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602602804547" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602602962210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602602962210" />
   </component>
 </project>
