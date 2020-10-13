@@ -4,6 +4,8 @@ public class feature2 {
         System.out.println("hellllooo");
 
         System.out.println(".......");
+
+        System.out.println("kal orda");
     }
 
 }
