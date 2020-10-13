@@ -28,10 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9f29c05-216e-4b88-93e9-cb3fb08419ca" name="Default Changelist" comment="kal dedim">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hello.java" afterDir="false" />
-    </list>
+    <list default="true" id="c9f29c05-216e-4b88-93e9-cb3fb08419ca" name="Default Changelist" comment="kal dedim yyaaaaaaa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602604614274</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="kal dedim yyaaaaaaa">
+      <created>1602606658884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602606658884</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +147,8 @@
     <MESSAGE value="awesome change continue" />
     <MESSAGE value="awesome change continue .........." />
     <MESSAGE value="kal dedim" />
-    <option name="LAST_COMMIT_MESSAGE" value="kal dedim" />
+    <MESSAGE value="kal dedim yyaaaaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="kal dedim yyaaaaaaa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602602746492">
@@ -162,13 +167,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602602804547" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602606199580">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602607047039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602606199580" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602604947286">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602607047039" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602606751270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602604947286" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1280.984@0.0.1366.728" timestamp="1602606751270" />
   </component>
 </project>
